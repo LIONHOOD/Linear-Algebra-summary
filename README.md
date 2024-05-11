@@ -1,2 +1,2 @@
-# LinearAlgebra_summary
-선형대수학 요약
+# Mathematics
+수학 공부를 기록합니다.
